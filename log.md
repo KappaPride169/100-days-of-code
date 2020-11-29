@@ -13,3 +13,5 @@
 **Link(s) to work**
 1. [Bootstrap Front-end Library](https://www.freecodecamp.org/learn/front-end-libraries/bootstrap/)
 
+### Day 2: Nov 12, Monday
+
