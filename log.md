@@ -22,4 +22,9 @@
 2.[Sass](https://www.freecodecamp.org/learn/front-end-libraries/sass/)
 
 
+### Day 3: Nov 13, Monday
 
+**Today's Progress**:Did some more learning on freecodecamp learned some react which was a bit more difficult then everything else up to this point, more interesting too.
+
+**Link(s) to work**
+[react]https://www.freecodecamp.org/learn/front-end-libraries/react/create-a-react-component
