@@ -1,0 +1,10 @@
+Complete the following tasks:
+
+a. Design a class named Book that holds a stock number, author, title, price, and number of pages.
+ Include methods to set and get the values for each data field. Also include a displayInfo() method
+ that displays each of the Book's data fields with explanations.
+
+b. Design a class named TextBook that is a child class of Book. Include a new data field for the grade level of the book.
+ Override the Book class displayInfo() method to accommodate the new grade-level field.
+
+c. Design an application that instantiates an object of each type and demonstrates all the methods.
